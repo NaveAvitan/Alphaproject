@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554367590296",
+    "firebase_url": "https://authnave1.firebaseio.com",
+    "project_id": "authnave1",
+    "storage_bucket": "authnave1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554367590296:android:80d7e63d1825dfcd38d5ed",
+        "android_client_info": {
+          "package_name": "com.example.alphaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554367590296-betdt01ftebnq1a4jg01pai2l6s9gl8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphaproject",
+            "certificate_hash": "a002447255d25db2e702ce7f422987d756d28cd5"
+          }
+        },
+        {
+          "client_id": "554367590296-0bc7e6bkun84366svhekf1c3t0mhh4cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCEa9K9zp_Foz2Nfry9jO26gc45XDjpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554367590296-0bc7e6bkun84366svhekf1c3t0mhh4cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
