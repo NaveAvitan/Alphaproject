@@ -118,11 +118,11 @@ public class Storage extends AppCompatActivity {
             startActivity(si);
         }
         if ((st.equals("location"))) {
-            Intent si = new Intent(this, Location2.class);
+            Intent si = new Intent(this, UserLocation.class);
             startActivity(si);
         }
         if ((st.equals("auth"))) {
-            Intent si = new Intent(this, MainActivity.class);
+            Intent si = new Intent(this, Auth.class);
             startActivity(si);
         }
 

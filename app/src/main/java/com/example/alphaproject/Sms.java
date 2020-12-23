@@ -66,7 +66,7 @@ public class Sms extends AppCompatActivity {
             startActivity(si);
         }
         if ((st.equals("location"))) {
-            Intent si = new Intent(this, Location2.class);
+            Intent si = new Intent(this, UserLocation.class);
             startActivity(si);
         }
         return true;

@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
     }
 
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -41,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(si);
         }
         if ((st.equals("location"))) {
-            Intent si = new Intent(this, Location2.class);
+            Intent si = new Intent(this, UserLocation.class);
             startActivity(si);
         }
 
